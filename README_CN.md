@@ -3,6 +3,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![MITRE ATT&CK](https://img.shields.io/badge/ATT%26CK-67%20Techniques-blue)](https://attack.mitre.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)]()
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue)](https://github.com/realguoxiufeng/Host-Atomic-Validator/releases/tag/v1.0.0)
 
 主机安全验证工具，用于执行 MITRE ATT&CK 原子测试。本项目提供批量执行攻击模拟测试和自动生成报告的能力，支持 Windows 和 Linux 平台。
 
@@ -59,11 +60,27 @@ pip install -r basforwindows/requirements.txt
 pip install -r basforlinux/requirements.txt
 ```
 
+## 下载执行器
+
+`goart-windows.exe` 和 `goart-linux` 执行器是运行测试所必需的。请从 [最新发布版本](https://github.com/realguoxiufeng/Host-Atomic-Validator/releases/latest) 下载。
+
+| 平台 | 文件 | 下载链接 |
+|------|------|----------|
+| Windows | `goart-windows.exe` | [下载](https://github.com/realguoxiufeng/Host-Atomic-Validator/releases/download/v1.0.0/goart-windows.exe) |
+| Linux | `goart-linux` | [下载](https://github.com/realguoxiufeng/Host-Atomic-Validator/releases/download/v1.0.0/goart-linux) |
+
 ### 执行器配置
 
-`goart-windows.exe` 和 `goart-linux` 执行器是必需的，但由于 GitHub 文件大小限制未包含在本仓库中。请将这些二进制文件放置在对应目录：
-- Windows: `basforwindows/goart-windows.exe`
-- Linux: `basforlinux/goart-linux`
+下载后，请将二进制文件放置在对应目录：
+
+```bash
+# Windows: 放置到
+basforwindows/goart-windows.exe
+
+# Linux: 放置到并设置执行权限
+basforlinux/goart-linux
+chmod +x basforlinux/goart-linux
+```
 
 ## 快速开始
 

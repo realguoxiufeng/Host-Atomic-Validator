@@ -3,6 +3,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![MITRE ATT&CK](https://img.shields.io/badge/ATT%26CK-67%20Techniques-blue)](https://attack.mitre.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)]()
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue)](https://github.com/realguoxiufeng/Host-Atomic-Validator/releases/tag/v1.0.0)
 
 A security testing tool for executing MITRE ATT&CK atomic tests. This project provides batch execution capabilities for attack simulation tests and automated report generation, supporting both Windows and Linux platforms.
 
@@ -59,11 +60,27 @@ pip install -r basforwindows/requirements.txt
 pip install -r basforlinux/requirements.txt
 ```
 
+## Download Executors
+
+The `goart-windows.exe` and `goart-linux` executors are required to run the tests. Download them from the [Latest Release](https://github.com/realguoxiufeng/Host-Atomic-Validator/releases/latest).
+
+| Platform | File | Download |
+|----------|------|----------|
+| Windows | `goart-windows.exe` | [Download](https://github.com/realguoxiufeng/Host-Atomic-Validator/releases/download/v1.0.0/goart-windows.exe) |
+| Linux | `goart-linux` | [Download](https://github.com/realguoxiufeng/Host-Atomic-Validator/releases/download/v1.0.0/goart-linux) |
+
 ### Executor Setup
 
-The `goart-windows.exe` and `goart-linux` executors are required but not included in this repository due to GitHub file size limits. Place these binaries in their respective directories:
-- Windows: `basforwindows/goart-windows.exe`
-- Linux: `basforlinux/goart-linux`
+After downloading, place the binaries in their respective directories:
+
+```bash
+# Windows: Place in
+basforwindows/goart-windows.exe
+
+# Linux: Place in and set execute permission
+basforlinux/goart-linux
+chmod +x basforlinux/goart-linux
+```
 
 ## Quick Start
 
