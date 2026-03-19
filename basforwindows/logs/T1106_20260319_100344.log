@@ -1,0 +1,16 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1106 - Native API
+Tests:
+  0. Execution through API - CreateProcess
+  1. WinPwn - Get SYSTEM shell - Pop System Shell using CreateProcess technique
+  2. WinPwn - Get SYSTEM shell - Bind System Shell using CreateProcess technique
+  3. WinPwn - Get SYSTEM shell - Pop System Shell using NamedPipe Impersonation technique
+  4. Run Shellcode via Syscall in Go
+
+
+

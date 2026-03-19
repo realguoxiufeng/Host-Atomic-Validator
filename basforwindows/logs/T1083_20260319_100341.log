@@ -1,0 +1,20 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1083 - File and Directory Discovery
+Tests:
+  0. File and Directory Discovery (cmd.exe)
+  1. File and Directory Discovery (PowerShell)
+  2. Nix File and Directory Discovery
+  3. Nix File and Directory Discovery 2
+  4. Simulating MAZE Directory Enumeration
+  5. Launch DirLister Executable
+  6. ESXi - Enumerate VMDKs available on an ESXi Host
+  7. Identifying Network Shares - Linux
+  8. Recursive Enumerate Files And Directories By Powershell
+
+
+

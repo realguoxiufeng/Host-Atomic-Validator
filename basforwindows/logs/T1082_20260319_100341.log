@@ -1,0 +1,51 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1082 - System Information Discovery
+Tests:
+  0. System Information Discovery
+  1. System Information Discovery
+  2. List OS Information
+  3. Linux VM Check via Hardware
+  4. Linux VM Check via Kernel Modules
+  5. FreeBSD VM Check via Kernel Modules
+  6. Hostname Discovery (Windows)
+  7. Hostname Discovery
+  8. Windows MachineGUID Discovery
+  9. Griffon Recon
+  10. Environment variables discovery on windows
+  11. Environment variables discovery on freebsd, macos and linux
+  12. Show System Integrity Protection status (MacOS)
+  13. WinPwn - winPEAS
+  14. WinPwn - itm4nprivesc
+  15. WinPwn - Powersploits privesc checks
+  16. WinPwn - General privesc checks
+  17. WinPwn - GeneralRecon
+  18. WinPwn - Morerecon
+  19. WinPwn - RBCD-Check
+  20. WinPwn - PowerSharpPack - Watson searching for missing windows patches
+  21. WinPwn - PowerSharpPack - Sharpup checking common Privesc vectors
+  22. WinPwn - PowerSharpPack - Seatbelt
+  23. Azure Security Scan with SkyArk
+  24. Linux List Kernel Modules
+  25. FreeBSD List Kernel Modules
+  26. System Information Discovery with WMIC
+  27. System Information Discovery
+  28. Check computer location
+  29. BIOS Information Discovery through Registry
+  30. ESXi - VM Discovery using ESXCLI
+  31. ESXi - Darkside system information discovery
+  32. sysctl to gather macOS hardware info
+  33. operating system discovery 
+  34. Check OS version via "ver" command
+  35. Display volume shadow copies with "vssadmin"
+  36. Identify System Locale and Regional Settings with PowerShell
+  37. Enumerate Available Drives via gdr
+  38. Discover OS Product Name via Registry
+  39. Discover OS Build Number via Registry
+
+
+

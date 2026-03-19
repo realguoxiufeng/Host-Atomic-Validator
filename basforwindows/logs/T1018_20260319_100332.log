@@ -1,0 +1,33 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1018 - Remote System Discovery
+Tests:
+  0. Remote System Discovery - net
+  1. Remote System Discovery - net group Domain Computers
+  2. Remote System Discovery - nltest
+  3. Remote System Discovery - ping sweep
+  4. Remote System Discovery - arp
+  5. Remote System Discovery - arp nix
+  6. Remote System Discovery - sweep
+  7. Remote System Discovery - nslookup
+  8. Remote System Discovery - adidnsdump
+  9. Adfind - Enumerate Active Directory Computer Objects
+  10. Adfind - Enumerate Active Directory Domain Controller Objects
+  11. Remote System Discovery - ip neighbour
+  12. Remote System Discovery - ip route
+  13. Remote System Discovery - netstat
+  14. Remote System Discovery - ip tcp_metrics
+  15. Enumerate domain computers within Active Directory using DirectorySearcher
+  16. Enumerate Active Directory Computers with Get-AdComputer
+  17. Enumerate Active Directory Computers with ADSISearcher
+  18. Get-DomainController with PowerView
+  19. Get-WmiObject to Enumerate Domain Controllers
+  20. Remote System Discovery - net group Domain Controller
+  21. Enumerate Remote Hosts with Netscan
+
+
+

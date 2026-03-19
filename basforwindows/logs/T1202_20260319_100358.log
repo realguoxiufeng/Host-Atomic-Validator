@@ -1,0 +1,16 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1202 - Indirect Command Execution
+Tests:
+  0. Indirect Command Execution - pcalua.exe
+  1. Indirect Command Execution - forfiles.exe
+  2. Indirect Command Execution - conhost.exe
+  3. Indirect Command Execution - Scriptrunner.exe
+  4. Indirect Command Execution - RunMRU Dialog
+
+
+

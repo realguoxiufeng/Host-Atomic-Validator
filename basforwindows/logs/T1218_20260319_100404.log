@@ -1,0 +1,27 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1218 - Signed Binary Proxy Execution
+Tests:
+  0. mavinject - Inject DLL into running process
+  1. Register-CimProvider - Execute evil dll
+  2. InfDefaultInstall.exe .inf Execution
+  3. ProtocolHandler.exe Downloaded a Suspicious File
+  4. Microsoft.Workflow.Compiler.exe Payload Execution
+  5. Renamed Microsoft.Workflow.Compiler.exe Payload Executions
+  6. Invoke-ATHRemoteFXvGPUDisablementCommand base test
+  7. DiskShadow Command Execution
+  8. Load Arbitrary DLL via Wuauclt (Windows Update Client)
+  9. Lolbin Gpscript logon option
+  10. Lolbin Gpscript startup option
+  11. Lolbas ie4uinit.exe use as proxy
+  12. LOLBAS CustomShellHost to Spawn Process
+  13. Provlaunch.exe Executes Arbitrary Command via Registry Key
+  14. LOLBAS Msedge to Spawn Process
+  15. System Binary Proxy Execution - Wlrmdr Lolbin
+
+
+

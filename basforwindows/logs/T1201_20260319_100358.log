@@ -1,0 +1,23 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1201 - Password Policy Discovery
+Tests:
+  0. Examine password complexity policy - Ubuntu
+  1. Examine password complexity policy - FreeBSD
+  2. Examine password complexity policy - CentOS/RHEL 7.x
+  3. Examine password complexity policy - CentOS/RHEL 6.x
+  4. Examine password expiration policy - All Linux
+  5. Examine local password policy - Windows
+  6. Examine domain password policy - Windows
+  7. Examine password policy - macOS
+  8. Get-DomainPolicy with PowerView
+  9. Enumerate Active Directory Password Policy with get-addefaultdomainpasswordpolicy
+  10. Use of SecEdit.exe to export the local security policy (including the password policy)
+  11. Examine AWS Password Policy
+
+
+

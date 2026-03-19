@@ -1,0 +1,17 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1012 - Query Registry
+Tests:
+  0. Query Registry
+  1. Query Registry with Powershell cmdlets
+  2. Enumerate COM Objects in Registry with Powershell
+  3. Reg query for AlwaysInstallElevated status
+  4. Check Software Inventory Logging (SIL) status via Registry
+  5. Inspect SystemStartOptions Value in Registry
+
+
+

@@ -1,0 +1,18 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1003 - OS Credential Dumping
+Tests:
+  0. Gsecdump
+  1. Credential Dumping with NPPSpy
+  2. Dump svchost.exe to gather RDP credentials
+  3. Retrieve Microsoft IIS Service Account Credentials Using AppCmd (using list)
+  4. Retrieve Microsoft IIS Service Account Credentials Using AppCmd (using config)
+  5. Dump Credential Manager using keymgr.dll and rundll32.exe
+  6. Send NTLM Hash with RPC Test Connection
+
+
+

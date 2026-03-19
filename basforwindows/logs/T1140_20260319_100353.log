@@ -1,0 +1,22 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1140 - Deobfuscate/Decode Files or Information
+Tests:
+  0. Deobfuscate/Decode Files Or Information
+  1. Certutil Rename and Decode
+  2. Base64 decoding with Python
+  3. Base64 decoding with Perl
+  4. Base64 decoding with shell utilities
+  5. Base64 decoding with shell utilities (freebsd)
+  6. FreeBSD b64encode Shebang in CLI
+  7. Hex decoding with shell utilities
+  8. Linux Base64 Encoded Shebang in CLI
+  9. XOR decoding and command execution using Python
+  10. Expand CAB with expand.exe
+
+
+

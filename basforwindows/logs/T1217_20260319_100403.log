@@ -1,0 +1,22 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1217 - Browser Bookmark Discovery
+Tests:
+  0. List Mozilla Firefox Bookmark Database Files on FreeBSD/Linux
+  1. List Mozilla Firefox Bookmark Database Files on macOS
+  2. List Google Chrome Bookmark JSON Files on macOS
+  3. List Google Chromium Bookmark JSON Files on FreeBSD
+  4. List Google Chrome / Opera Bookmarks on Windows with powershell
+  5. List Google Chrome / Edge Chromium Bookmarks on Windows with command prompt
+  6. List Mozilla Firefox bookmarks on Windows with command prompt
+  7. List Internet Explorer Bookmarks using the command prompt
+  8. List Safari Bookmarks on MacOS
+  9. Extract Edge Browsing History
+  10. Extract chrome Browsing History
+
+
+

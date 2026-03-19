@@ -1,0 +1,101 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1112 - Modify Registry
+Tests:
+  0. Modify Registry of Current User Profile - cmd
+  1. Modify Registry of Local Machine - cmd
+  2. Modify registry to store logon credentials
+  3. Use Powershell to Modify registry to store logon credentials
+  4. Add domain to Trusted sites Zone
+  5. Javascript in registry
+  6. Change Powershell Execution Policy to Bypass
+  7. BlackByte Ransomware Registry Changes - CMD
+  8. BlackByte Ransomware Registry Changes - Powershell
+  9. Disable Windows Registry Tool
+  10. Disable Windows CMD application
+  11. Disable Windows Task Manager application
+  12. Disable Windows Notification Center
+  13. Disable Windows Shutdown Button
+  14. Disable Windows LogOff Button
+  15. Disable Windows Change Password Feature
+  16. Disable Windows Lock Workstation Feature
+  17. Activate Windows NoDesktop Group Policy Feature
+  18. Activate Windows NoRun Group Policy Feature
+  19. Activate Windows NoFind Group Policy Feature
+  20. Activate Windows NoControlPanel Group Policy Feature
+  21. Activate Windows NoFileMenu Group Policy Feature
+  22. Activate Windows NoClose Group Policy Feature
+  23. Activate Windows NoSetTaskbar Group Policy Feature
+  24. Activate Windows NoTrayContextMenu Group Policy Feature
+  25. Activate Windows NoPropertiesMyDocuments Group Policy Feature
+  26. Hide Windows Clock Group Policy Feature
+  27. Windows HideSCAHealth Group Policy Feature
+  28. Windows HideSCANetwork Group Policy Feature
+  29. Windows HideSCAPower Group Policy Feature
+  30. Windows HideSCAVolume Group Policy Feature
+  31. Windows Modify Show Compress Color And Info Tip Registry
+  32. Windows Powershell Logging Disabled
+  33. Windows Add Registry Value to Load Service in Safe Mode without Network
+  34. Windows Add Registry Value to Load Service in Safe Mode with Network
+  35. Disable Windows Toast Notifications
+  36. Disable Windows Security Center Notifications
+  37. Suppress Win Defender Notifications
+  38. Allow RDP Remote Assistance Feature
+  39. NetWire RAT Registry Key Creation
+  40. Ursnif Malware Registry Key Creation
+  41. Terminal Server Client Connection History Cleared
+  42. Disable Windows Error Reporting Settings
+  43. DisallowRun Execution Of Certain Applications
+  44. Enabling Restricted Admin Mode via Command_Prompt
+  45. Mimic Ransomware - Enable Multiple User Sessions
+  46. Mimic Ransomware - Allow Multiple RDP Sessions per User
+  47. Event Viewer Registry Modification - Redirection URL
+  48. Event Viewer Registry Modification - Redirection Program
+  49. Enabling Remote Desktop Protocol via Remote Registry
+  50. Disable Win Defender Notification
+  51. Disable Windows OS Auto Update
+  52. Disable Windows Auto Reboot for current logon user
+  53. Windows Auto Update Option to Notify before download
+  54. Do Not Connect To Win Update
+  55. Tamper Win Defender Protection
+  56. Snake Malware Registry Blob
+  57. Allow Simultaneous Download Registry
+  58. Modify Internet Zone Protocol Defaults in Current User Registry - cmd
+  59. Modify Internet Zone Protocol Defaults in Current User Registry - PowerShell
+  60. Activities To Disable Secondary Authentication Detected By Modified Registry Value.
+  61. Activities To Disable Microsoft [FIDO Aka Fast IDentity Online] Authentication Detected By Modified Registry Value.
+  62. Scarab Ransomware Defense Evasion Activities
+  63. Disable Remote Desktop Anti-Alias Setting Through Registry
+  64. Disable Remote Desktop Security Settings Through Registry
+  65. Disabling ShowUI Settings of Windows Error Reporting (WER)
+  66. Enable Proxy Settings
+  67. Set-Up Proxy Server
+  68. RDP Authentication Level Override
+  69. Enable RDP via Registry (fDenyTSConnections)
+  70. Disable Windows Prefetch Through Registry
+  71. Setting Shadow key in Registry for RDP Shadowing
+  72. Flush Shimcache
+  73. Disable Windows Remote Desktop Protocol
+  74. Enforce Smart Card Authentication Through Registry
+  75. Requires the BitLocker PIN for Pre-boot authentication
+  76. Modify EnableBDEWithNoTPM Registry entry
+  77. Modify UseTPM Registry entry
+  78. Modify UseTPMPIN Registry entry
+  79. Modify UseTPMKey Registry entry
+  80. Modify UseTPMKeyPIN Registry entry
+  81. Modify EnableNonTPM Registry entry
+  82. Modify UsePartialEncryptionKey Registry entry
+  83. Modify UsePIN Registry entry
+  84. Abusing Windows TelemetryController Registry Key for Persistence
+  85. Modify RDP-Tcp Initial Program Registry Entry
+  86. Abusing MyComputer Disk Cleanup Path for Persistence
+  87. Abusing MyComputer Disk Fragmentation Path for Persistence
+  88. Abusing MyComputer Disk Backup Path for Persistence
+  89. Adding custom paths for application execution
+
+
+

@@ -1,0 +1,28 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1098 - Account Manipulation
+Tests:
+  0. Admin Account Manipulate
+  1. Domain Account and Group Manipulate
+  2. AWS - Create a group and add a user to that group
+  3. Azure AD - adding user to Azure AD role
+  4. Azure AD - adding service principal to Azure AD role
+  5. Azure - adding user to Azure role in subscription
+  6. Azure - adding service principal to Azure role in subscription
+  7. Azure AD - adding permission to application
+  8. Password Change on Directory Service Restore Mode (DSRM) Account
+  9. Domain Password Policy Check: Short Password
+  10. Domain Password Policy Check: No Number in Password
+  11. Domain Password Policy Check: No Special Character in Password
+  12. Domain Password Policy Check: No Uppercase Character in Password
+  13. Domain Password Policy Check: No Lowercase Character in Password
+  14. Domain Password Policy Check: Only Two Character Classes
+  15. Domain Password Policy Check: Common Password Use
+  16. GCP - Delete Service Account Key
+
+
+

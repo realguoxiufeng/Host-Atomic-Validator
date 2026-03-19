@@ -1,0 +1,23 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1135 - Network Share Discovery
+Tests:
+  0. Network Share Discovery
+  1. Network Share Discovery - linux
+  2. Network Share Discovery - FreeBSD
+  3. Network Share Discovery command prompt
+  4. Network Share Discovery PowerShell
+  5. View available share drives
+  6. Share Discovery with PowerView
+  7. PowerView ShareFinder
+  8. WinPwn - shareenumeration
+  9. Network Share Discovery via dir command
+  10. Enumerate All Network Shares with SharpShares
+  11. Enumerate All Network Shares with Snaffler
+
+
+

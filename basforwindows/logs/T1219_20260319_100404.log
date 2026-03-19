@@ -1,0 +1,26 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1219 - Remote Access Software
+Tests:
+  0. TeamViewer Files Detected Test on Windows
+  1. AnyDesk Files Detected Test on Windows
+  2. LogMeIn Files Detected Test on Windows
+  3. GoToAssist Files Detected Test on Windows
+  4. ScreenConnect Application Download and Install on Windows
+  5. Ammyy Admin Software Execution
+  6. RemotePC Software Execution
+  7. NetSupport - RAT Execution
+  8. UltraViewer - RAT Execution
+  9. UltraVNC Execution
+  10. MSP360 Connect Execution
+  11. RustDesk Files Detected Test on Windows
+  12. Splashtop Execution
+  13. Splashtop Streamer Execution
+  14. Microsoft App Quick Assist Execution
+
+
+

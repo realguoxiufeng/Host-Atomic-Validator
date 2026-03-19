@@ -1,0 +1,21 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1113 - Screen Capture
+Tests:
+  0. Screencapture
+  1. Screencapture (silent)
+  2. X Windows Capture
+  3. X Windows Capture (freebsd)
+  4. Capture Linux Desktop using Import Tool
+  5. Capture Linux Desktop using Import Tool (freebsd)
+  6. Windows Screencapture
+  7. Windows Screen Capture (CopyFromScreen)
+  8. Windows Recall Feature Enabled - DisableAIDataAnalysis Value Deleted
+  9. RDP Bitmap Cache Extraction via bmc-tools
+
+
+

@@ -1,0 +1,23 @@
+﻿    ___   __                  _         ____           __   ______                   
+   /   | / /_____  ____ ___  (_)____   / __ \___  ____/ /  /_  __/__  ____ _____ ___
+  / /| |/ __/ __ \/ __ `__ \/ / ___/  / /_/ / _ \/ __  /    / / / _ \/ __ `/ __ `__ \
+ / ___ / /_/ /_/ / / / / / / / /__   / _, _/  __/ /_/ /    / / /  __/ /_/ / / / / / /
+/_/  |_\__/\____/_/ /_/ /_/_/\___/  /_/ |_|\___/\__,_/    /_/  \___/\__,_/_/ /_/ /_/
+
+Technique: T1046 - Network Service Discovery
+Tests:
+  0. Port Scan
+  1. Port Scan Nmap
+  2. Port Scan NMap for Windows
+  3. Port Scan using python
+  4. WinPwn - spoolvulnscan
+  5. WinPwn - MS17-10
+  6. WinPwn - bluekeep
+  7. WinPwn - fruit
+  8. Network Service Discovery for Containers
+  9. Port-Scanning /24 Subnet with PowerShell
+  10. Remote Desktop Services Discovery via PowerShell
+  11. Port Scan using nmap (Port range)
+
+
+
