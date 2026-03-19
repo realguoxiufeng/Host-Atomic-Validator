@@ -1,0 +1,114 @@
+T1003.001 - OS Credential Dumping: LSASS Memory
+T1003.002 - OS Credential Dumping: Security Account Manager
+T1003.003 - OS Credential Dumping: NTDS
+T1003.004 - OS Credential Dumping: LSA Secrets
+T1003.005 - OS Credential Dumping: Cached Domain Credentials
+T1003.006 - OS Credential Dumping: DCSync
+T1012 - Query Registry
+T1021.001 - Remote Services: Remote Desktop Protocol
+T1021.002 - Remote Services: SMB/Windows Admin Shares
+T1021.003 - Remote Services: Distributed Component Object Model
+T1021.006 - Remote Services: Windows Remote Management
+T1036.003 - Masquerading: Rename System Utilities
+T1036.004 - Masquerading: Masquerade Task or Service
+T1036.005 - Masquerading: Match Legitimate Name or Location
+T1036.006 - Masquerading: Space after Filename
+T1036.007 - Masquerading: Double File Extension
+T1037.001 - Boot or Logon Initialization Scripts: Logon Script (Windows)
+T1047 - Windows Management Instrumentation
+T1053.005 - Scheduled Task/Job: Scheduled Task
+T1055.001 - Process Injection: Dynamic-link Library Injection
+T1055.004 - Process Injection: Asynchronous Procedure Call
+T1055.011 - Process Injection: Extra Window Memory Injection
+T1055.012 - Process Injection: Process Hollowing
+T1056.004 - Input Capture: Credential API Hooking
+T1059.001 - Command and Scripting Interpreter: PowerShell
+T1059.003 - Command and Scripting Interpreter: Windows Command Shell
+T1059.005 - Command and Scripting Interpreter: Visual Basic
+T1059.010 - Command and Scripting Interpreter: AutoHotKey & AutoIT
+T1069.001 - Permission Groups Discovery: Local Groups
+T1069.002 - Permission Groups Discovery: Domain Groups
+T1070.001 - Indicator Removal on Host: Clear Windows Event Logs
+T1070.005 - Indicator Removal on Host: Network Share Connection Removal
+T1112 - Modify Registry
+T1127.001 - Trusted Developer Utilities Proxy Execution: MSBuild
+T1134.001 - Access Token Manipulation: Token Impersonation/Theft
+T1134.002 - Create Process with Token
+T1134.004 - Access Token Manipulation: Parent PID Spoofing
+T1134.005 - Access Token Manipulation: SID-History Injection
+T1136.001 - Create Account: Local Account
+T1136.002 - Create Account: Domain Account
+T1137 - Office Application Startup
+T1137.001 - Office Application Startup: Office Template Macros
+T1137.002 - Office Application Startup: Office Test
+T1137.004 - Office Application Startup: Outlook Home Page
+T1137.006 - Office Application Startup: Add-ins
+T1197 - BITS Jobs
+T1216 - Signed Script Proxy Execution
+T1216.001 - Signed Script Proxy Execution: Pubprn
+T1218 - Signed Binary Proxy Execution
+T1218.001 - Signed Binary Proxy Execution: Compiled HTML File
+T1218.002 - Signed Binary Proxy Execution: Control Panel
+T1218.003 - Signed Binary Proxy Execution: CMSTP
+T1218.004 - Signed Binary Proxy Execution: InstallUtil
+T1218.005 - Signed Binary Proxy Execution: Mshta
+T1218.007 - Signed Binary Proxy Execution: Msiexec
+T1218.008 - Signed Binary Proxy Execution: Odbcconf
+T1218.009 - Signed Binary Proxy Execution: Regsvcs/Regasm
+T1218.010 - Signed Binary Proxy Execution: Regsvr32
+T1218.011 - Signed Binary Proxy Execution: Rundll32
+T1220 - XSL Script Processing
+T1222.001 - File and Directory Permissions Modification: Windows File and Directory Permissions Modification
+T1484.001 - Domain Policy Modification: Group Policy Modification
+T1505.003 - Server Software Component: Web Shell
+T1505.004 - IIS Components
+T1505.005 - Server Software Component: Terminal Services DLL
+T1543.003 - Create or Modify System Process: Windows Service
+T1546.003 - Event Triggered Execution: Windows Management Instrumentation Event Subscription
+T1546.007 - Event Triggered Execution: Netsh Helper DLL
+T1546.008 - Event Triggered Execution: Accessibility Features
+T1546.009 - Event Triggered Execution: AppCert DLLs
+T1546.010 - Event Triggered Execution: AppInit DLLs
+T1546.011 - Event Triggered Execution: Application Shimming
+T1546.012 - Event Triggered Execution: Image File Execution Options Injection
+T1546.015 - Event Triggered Execution: Component Object Model Hijacking
+T1547 - Boot or Logon Autostart Execution
+T1547.001 - Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder
+T1547.002 - Authentication Package
+T1547.003 - Time Providers
+T1547.004 - Boot or Logon Autostart Execution: Winlogon Helper DLL
+T1547.005 - Boot or Logon Autostart Execution: Security Support Provider
+T1547.008 - Boot or Logon Autostart Execution: LSASS Driver
+T1547.009 - Boot or Logon Autostart Execution: Shortcut Modification
+T1547.010 - Boot or Logon Autostart Execution: Port Monitors
+T1547.012 - Boot or Logon Autostart Execution: Print Processors
+T1547.014 - Active Setup
+T1548.002 - Abuse Elevation Control Mechanism: Bypass User Account Control
+T1550.002 - Use Alternate Authentication Material: Pass the Hash
+T1550.003 - Use Alternate Authentication Material: Pass the Ticket
+T1552.002 - Unsecured Credentials: Credentials in Registry
+T1552.006 - Unsecured Credentials: Group Policy Preferences
+T1553.004 - Subvert Trust Controls: Install Root Certificate
+T1553.005 - Subvert Trust Controls: Mark-of-the-Web Bypass
+T1553.006 - Subvert Trust Controls: Code Signing Policy Modification
+T1555.004 - Credentials from Password Stores: Windows Credential Manager
+T1556.002 - Modify Authentication Process: Password Filter DLL
+T1557.001 - Adversary-in-the-Middle: LLMNR/NBT-NS Poisoning and SMB Relay
+T1558.001 - Steal or Forge Kerberos Tickets: Golden Ticket
+T1558.002 - Steal or Forge Kerberos Tickets: Silver Ticket
+T1558.003 - Steal or Forge Kerberos Tickets: Kerberoasting
+T1558.004 - Steal or Forge Kerberos Tickets: AS-REP Roasting
+T1559.002 - Inter-Process Communication: Dynamic Data Exchange
+T1562.002 - Impair Defenses: Disable Windows Event Logging
+T1562.004 - Impair Defenses: Disable or Modify System Firewall
+T1563.002 - Remote Service Session Hijacking: RDP Hijacking
+T1564.004 - Hide Artifacts: NTFS File Attributes
+T1574.008 - Hijack Execution Flow: Path Interception by Search Order Hijacking
+T1574.009 - Hijack Execution Flow: Path Interception by Unquoted Path
+T1574.011 - Hijack Execution Flow: Services Registry Permissions Weakness
+T1574.012 - Hijack Execution Flow: COR_PROFILER
+T1614 - System Location Discovery
+T1614.001 - System Location Discovery: System Language Discovery
+T1615 - Group Policy Discovery
+T1620 - Reflective Code Loading
+T1654 - Log Enumeration

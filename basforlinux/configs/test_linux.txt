@@ -1,0 +1,42 @@
+T1003.007 - OS Credential Dumping: Proc Filesystem
+T1003.008 - OS Credential Dumping: /etc/passwd, /etc/master.passwd and /etc/shadow
+T1037.004 - Boot or Logon Initialization Scripts: Rc.common
+T1053.002 - Scheduled Task/Job: At
+T1053.003 - Scheduled Task/Job: Cron
+T1070.002 - Indicator Removal on Host: Clear FreeBSD, Linux or Mac System Logs
+T1070.003 - Indicator Removal on Host: Clear Command History
+T1222.002 - File and Directory Permissions Modification: FreeBSD, Linux and Mac File and Directory Permissions Modification
+T1543.002 - Create or Modify System Process: SysV/Systemd Service
+T1546.004 - Event Triggered Execution: .bash_profile .bashrc and .shrc
+T1546.005 - Event Triggered Execution: Trap
+T1546.018 - Event Triggered Execution: Python Startup Hooks
+T1547.006 - Boot or Logon Autostart Execution: Kernel Modules and Extensions
+T1552.003 - Unsecured Credentials: Bash History
+T1556.003 - Modify Authentication Process: Pluggable Authentication Modules
+T1562.003 - Impair Defenses: Impair Command History Logging
+T1562.012 - Impair Defenses: Disable or Modify Linux Audit System
+T1569.001 - System Services: Launchctl
+T1574.006 - Hijack Execution Flow: LD_PRELOAD
+T1609 - Kubernetes Exec Into Container
+T1610 - Deploy a container
+T1611 - Escape to Host
+T1612 - Build Image on Host
+T1613 - Container and Resource Discovery
+T1021.004 - Remote Services: SSH
+T1049 - System Network Connections Discovery
+T1055 - Process Injection
+T1057 - Process Discovery
+T1059.004 - Command and Scripting Interpreter: Bash
+T1059.006 - Command and Scripting Interpreter: Python
+T1078.001 - Valid Accounts: Default Accounts
+T1078.003 - Valid Accounts: Local Accounts
+T1082 - System Information Discovery
+T1083 - File and Directory Discovery
+T1087.001 - Account Discovery: Local Account
+T1548.001 - Abuse Elevation Control Mechanism: Setuid and Setgid
+T1548.003 - Abuse Elevation Control Mechanism: Sudo and Sudo Caching
+T1620 - Reflective Code Loading
+T1622 - Debugger Evasion
+T1651 - Cloud Administration Command
+T1652 - Device Driver Discovery
+T1654 - Log Enumeration
